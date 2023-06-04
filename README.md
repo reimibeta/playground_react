@@ -5,3 +5,6 @@
 # Add typescript to exist project
     npm install --save typescript @types/node @types/react @types/react-dom @types/jest
     yarn add typescript @types/node @types/react @types/react-dom @types/jest
+
+# Create React library
+    npx create-react-library <LIBRARY_NAME>
