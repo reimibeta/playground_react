@@ -7,7 +7,7 @@ const RequestComponent = () => {
     const [c, setC] = useState<Array<number>>([]);
 
     useEffect(() => {
-        console.log('count', count)
+        // console.log('count', count)
         request.get<any>('http://server.pcrpallet.com/view/api/orders/order/', {
             onResponse(data) {
                 setCount(data.count);
