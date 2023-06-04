@@ -7846,8 +7846,8 @@ renderkid@^3.0.0:
     strip-ansi "^6.0.1"
 
 "request-dispatch@https://github.com/reimibeta/request-dispatch.git":
-  version "1.0.0"
-  resolved "https://github.com/reimibeta/request-dispatch.git#e476eb8f7ca233db5a317abd6d819957fb4b085a"
+  version "1.0.1"
+  resolved "https://github.com/reimibeta/request-dispatch.git#1c7200e3a9677680664935bb72c6390735d7aee8"
   dependencies:
     axios "^1.4.0"
 
