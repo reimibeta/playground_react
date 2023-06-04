@@ -5103,9 +5103,10 @@ ignore@^5.2.0:
   resolved "https://registry.yarnpkg.com/ignore/-/ignore-5.2.4.tgz#a291c0c6178ff1b960befe47fcdec301674a6324"
   integrity sha512-MAb38BcSbH0eHNBxn7ql2NH/kX33OkB3lZ1BNdh7ENeRChHTYsTvWrMubiIAMNS2llXEEgZ1MUOBtXChP3kaFQ==
 
-"image-convert-base64@https://github.com/reimibeta/image-convert-base64.git":
+image-convert-base64@^1.0.0:
   version "1.0.0"
-  resolved "https://github.com/reimibeta/image-convert-base64.git#594d44b04fcf25e068618f302f0311573cc9e9ef"
+  resolved "https://registry.yarnpkg.com/image-convert-base64/-/image-convert-base64-1.0.0.tgz#e8e68cf651a15d397445aa16638b9c3da50e7695"
+  integrity sha512-s+KsoktkJU8a2A3QL+IQKTljYt5Gqr+pTohjDcxKvWKBp1SK3XUrIYqmKoV0v1UP83WrjVZ2e64BBo6lhEku8A==
 
 immer@^9.0.7:
   version "9.0.21"
