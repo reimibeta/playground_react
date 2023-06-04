@@ -1,6 +1,5 @@
 import React, { useEffect, useState } from "react";
 import { request } from "request-dispatch";
-import { HelloWorld } from "simple-request";
 
 const RequestComponent = () => {
 
@@ -8,7 +7,6 @@ const RequestComponent = () => {
     const [c, setC] = useState<Array<number>>([]);
 
     useEffect(() => {
-        HelloWorld();
         // console.log('count', count)
         request.get<any>('http://server.pcrpallet.com/view/api/orders/order/', {
             onResponse(data) {

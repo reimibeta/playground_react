@@ -7847,7 +7847,7 @@ renderkid@^3.0.0:
 
 "request-dispatch@https://github.com/reimibeta/request-dispatch.git":
   version "1.0.1"
-  resolved "https://github.com/reimibeta/request-dispatch.git#1c7200e3a9677680664935bb72c6390735d7aee8"
+  resolved "https://github.com/reimibeta/request-dispatch.git#0306de0b7fadb503d76532c1bc987c48a73545c5"
   dependencies:
     axios "^1.4.0"
 
@@ -8181,10 +8181,6 @@ signal-exit@^3.0.2, signal-exit@^3.0.3:
   version "3.0.7"
   resolved "https://registry.yarnpkg.com/signal-exit/-/signal-exit-3.0.7.tgz#a9a1767f8af84155114eaabd73f99273c8f59ad9"
   integrity sha512-wnD2ZE+l+SPC/uoS0vXeE9L1+0wuaMqKlfz9AMUo38JsyLSBWSFcHR1Rri62LZc12vLr1gb3jl7iwQhgwpAbGQ==
-
-"simple-request@https://github.com/reimibeta/simple-request.git":
-  version "1.0.0"
-  resolved "https://github.com/reimibeta/simple-request.git#6cbb731c417bde13a2147783835bdad1664534f3"
 
 sisteransi@^1.0.5:
   version "1.0.5"
