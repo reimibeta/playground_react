@@ -1,0 +1,9 @@
+export const ORDER_LIST = "ORDER_LIST";
+export const ORDER_PENDING_LIST = "ORDER_PENDING_LIST";
+export const ORDER_COMPLETE_LIST = "ORDER_COMPLETE_LIST";
+export const ORDER_UNPAID_LIST = "ORDER_UNPAID_LIST";
+export const ORDER_DETAIL = "ORDER_DETAIL";
+// search
+export const ORDER_SEARCH_LIST = "ORDER_SEARCH_LIST";
+//
+export const ORDER_STORE_LIST = "ORDER_STORE_LIST";
